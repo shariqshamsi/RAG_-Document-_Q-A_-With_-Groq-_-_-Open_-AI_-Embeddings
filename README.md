@@ -1,0 +1,2 @@
+# RAG_ Document _Q&A_ With_ Groq _&_ Open_ AI_ Embeddings
+ This project implements a Retrieval-Augmented Generation (RAG) system using Groq's Llama3-8b model and OpenAI embeddings. The application provides a user-friendly interface powered by Streamlit to perform question-answering on a vectorized database of research papers. This tool leverages the capabilities of LangChain for document processing, embedding generation, and retrieval chains, alongside LangSmith tracing for monitoring and debugging.
